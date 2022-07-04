@@ -4,7 +4,7 @@ Description of OpenSource and Major Academic Projects
 
 # TODO
 
-Will update with Academic Projects by EOD 3rd July
+Will update with Academic Projects by EOD 4rd July
 
 
 # Personal Projects
