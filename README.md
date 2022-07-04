@@ -31,10 +31,15 @@ https://web.archive.org/web/20180611033508/https://github.com/danielpalme/IocPer
 
 For security and academic honesty, my academic projects from Georgia Tech are stored separately on Google drive. Below are descriptions of the projects. There is a password protected link to access sources. The password has been communicated separately.
 
-Password protected link to Georgia Tech projects folder:
+### Password protected link to Georgia Tech projects folder
+
 > [Georgia Tech Projects Folder](https://jstrieb.github.io/link-lock/#eyJ2IjoiMC4wLjEiLCJlIjoiZVZ2TFc0MjVDTkZjbFZTa1hUTzRYY1pqRWducDczWTFpdTJaYlF5ak1KSlk2UmZ4WExHak9kUjBFLzhCL2xrNnE2MkpIT3NBU3J1c09Tbk0xRm1VeFNiODUvWmdlN0Vkam1IUHpMTWZpYUg3Y2pjNEZ5MUZCQWJiYk9HUkRtL0JIME1tSEE9PSIsInMiOiJnaFoya1lBY3Z0Q3Y1V1l1M3ZRKzZnPT0iLCJpIjoicEVxY1kwSkJmWU95dWhWYSJ9)
 
-**NOTE** All content below is accessible via this link
+**NOTE** If you are presented with an error page.
+
+![Error Screen](./assets/link_error_screen.png)
+
+Click the **&lt;Try again&gt;** button and enter the link password.
 
 
 ## Reinforcement Learning
