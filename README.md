@@ -35,7 +35,7 @@ GA Course Link: https://omscs.gatech.edu/cs-6475-computational-photography
 
 #### Access to Code
 
-Instructions [here](gatech/README.md)
+Instructions [here](academic-code-access.md)
 
 #### Course Overview
 
